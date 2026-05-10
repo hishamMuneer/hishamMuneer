@@ -1,6 +1,6 @@
-# Hi, I'm Hisham Muneer 👋  <div align = 'right'>![](https://komarev.com/ghpvc/?username=hishamMuneer&color=blue&abbreviated=true&base=12040)</div>
+### Hi, I'm Hisham Muneer 👋  <div align = 'right'>![](https://komarev.com/ghpvc/?username=hishamMuneer&color=blue&abbreviated=true&base=12040)</div>
 
-## Android Engineer • Fixing Edge Cases Nobody Thought About
+# Android Engineer • Fixing Edge Cases Nobody Thought About
 
 - Android Engineer with more than a decade of experience building scalable, high-performance mobile apps across banking, fintech, enterprise, and consumer platforms — usually powered by **Kotlin**, Jetpack **Compose**, **caffeine**, and unreasonable **curiosity**.
 - Passionate about crafting smooth user experiences, **clean architecture**, meaningful animations, accessibility-first apps, and developer tooling that saves future developers from suffering (including future me).
